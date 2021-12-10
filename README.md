@@ -1,4 +1,4 @@
-# battery-full-notify-linux
+# battery-notify-linux
 
 This script notifies when battery is above 80% while charging (can customize the full charge percentage in script). 
 
