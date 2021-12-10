@@ -24,9 +24,9 @@ For playing the audio with notification
 
 Test the audio and notification by
 
-```notify-send -u critical "Please unplug your AC adapter" "Battery level can charge above 80%" -i battery-full-charged && play ~/battery-notify-linux-master/loud_alarm.mp3```
+```notify-send -u critical "Please unplug your AC adapter" "Battery level can charge above 80%" -i battery-full-charged && play ~/battery-notify-linux/loud_alarm.mp3```
 
 To add custom music, copy any music file in "battery-full-notify-linux" folder, and change the music file name in
-```play ~/battery-notify-linux-master/your file name.mp3```
+```play ~/battery-notify-linux/your file name.mp3```
 
 Add the script in your startup (different DEs have different method, please check online for "add script/application in startup for linux mint")
