@@ -30,3 +30,9 @@ To add custom music, copy any music file in "battery-full-notify-linux" folder, 
 ```play ~/battery-notify-linux/your file name.mp3```
 
 Add the script in your startup (different DEs have different method, please check online for "add script/application in startup for linux mint")
+
+## Sources
+
+[battery-full-notification-KDE5 by jruedaq](https://github.com/jruedaq/battery-full-notification-KDE5)
+
+[battery-full-notification by theArjun](https://github.com/theArjun/battery-full-notification)
