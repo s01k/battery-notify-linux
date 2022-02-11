@@ -2,6 +2,10 @@
 
 This script notifies when battery is above 80% while charging and when battery is below 40% while running on battery (you can customize the charge percentage in script).
 
+## Screenshots
+<img src="p/high.png">
+<img src="p/low.png">
+
 ## Setup Instructions
 
 [*] Install git (if already installed, ignore)
